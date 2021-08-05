@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente busco experiências com front-end
 - 🌱 Estudando desenvolvimento web
-- 👀 Interesses no framework Vue.js
+- 👀 Interesse no framework Vue.js
 - 😄 Pronomes: ele/dele
 
 
