@@ -1,5 +1,6 @@
 ### Oii! Eu sou o Nicolas 👋
 
+- 💼 Estagiario na AMZ|MP
 - 🌱 Estudando desenvolvimento web
 - 👀 Interesse nos framework Vue.js e React.js
 - 😄 Pronomes: ele/dele
