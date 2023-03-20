@@ -1,6 +1,6 @@
 ### Oii! Eu sou o Nicolas 👋
 
-- 💼 Web developer na AMZ|MP
+- 💼 Web developer na Intuitive Care
 - 🌱 Estudando desenvolvimento web
 - 👀 Interesse nos framework Vue.js e React.js
 - 😄 Pronomes: ele/dele
