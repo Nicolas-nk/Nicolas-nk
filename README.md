@@ -1,17 +1,22 @@
-### Oii! Eu sou o Nicolas 👋
+# Nicolas Messias 👋
 
-- 💼 Web developer na Intuitive Care
-- 🌱 Especialista em desenvolvimento web
-- 👀 Experiencia com os framework Vue.js e React.js
-- 😄 Pronomes: ele/dele
+Software Engineer focused on building scalable and high-performance web applications.
 
+Currently working as a Web Developer at Intuitive Care, where I build and maintain production-grade systems used in real business environments.
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-nk&layout=compact&langs_count=7&theme=dark"/>
-</div>
+##
+
+## 🚀 About Me
+
+- 💼 Web Developer @ Intuitive Care  
+- 🏛️ B.Sc. in Applied and Computational Mathematics at USP 
+- ⚡ Experience handling large volumes of data on the frontend  
+- 🎯 Focused on scalability, performance and clean architecture  
+- 🌱 Constantly improving in distributed systems and frontend architecture  
+
+I enjoy turning complex business requirements into clean, maintainable and scalable solutions.
   
-  ##
-  
+  ## 🛠 Tech Stack
 <div style="display: inline_block"><br>
   <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
